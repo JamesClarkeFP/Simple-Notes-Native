@@ -1,16 +1,19 @@
 import * as WebBrowser from 'expo-web-browser';
 import * as React from 'react';
-import { Image, Platform, StyleSheet, Text, ImageBackground, View } from 'react-native';
+import { Button, TextInput, Platform, StyleSheet, Text, ImageBackground, View } from 'react-native';
 import { ScrollView } from 'react-native-gesture-handler';
 
-import { MonoText } from '../components/StyledText';
 import Board from '../components/Board'
 import { addNote } from '../store/actions/notes'
 import { useDispatch } from "react-redux";
 
+
+
 export default function HomeScreen(props) {
   const image = { uri: "https://get.pxhere.com/photo/sea-water-ocean-wave-underwater-blue-bubble-reef-wind-wave-marine-biology-138350.jpg" }
-
+  const dispatch = useDispatch()
+  const [text, setText] = React.useState('')
+  
   return (
     <View style={styles.container}>
       <ImageBackground source={image} style={styles.container}>
@@ -18,6 +21,18 @@ export default function HomeScreen(props) {
         <Board notes={props.notes}/>
       </ScrollView>
       </ImageBackground>
+      <TextInput
+          style={{ height: 40, borderColor: 'gray', borderWidth: 1 }}
+          onChangeText={text => setText(text)}
+          value={text}
+      />
+      <Button
+        title="Add a note"
+        onPress={() => {
+          dispatch(addNote(text,200,200));
+          setText('')
+        }}
+      />
     </View>
   );
 }
