@@ -1,0 +1,33 @@
+{
+  "files": {
+    "app.js": "/Native-Simple-Notes/static/js/app.86628808.chunk.js",
+    "app.js.map": "/Native-Simple-Notes/static/js/app.86628808.chunk.js.map",
+    "runtime~app.js": "/Native-Simple-Notes/static/js/runtime~app.a5cd0704.js",
+    "runtime~app.js.map": "/Native-Simple-Notes/static/js/runtime~app.a5cd0704.js.map",
+    "static/js/2.ff2a15a8.chunk.js": "/Native-Simple-Notes/static/js/2.ff2a15a8.chunk.js",
+    "static/js/2.ff2a15a8.chunk.js.map": "/Native-Simple-Notes/static/js/2.ff2a15a8.chunk.js.map",
+    "fonts/AntDesign.ttf": "/Native-Simple-Notes/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/Native-Simple-Notes/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/Native-Simple-Notes/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/Native-Simple-Notes/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/Native-Simple-Notes/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/Native-Simple-Notes/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Foundation.ttf": "/Native-Simple-Notes/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/Native-Simple-Notes/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/Native-Simple-Notes/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/Native-Simple-Notes/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/Native-Simple-Notes/./fonts/SimpleLineIcons.ttf",
+    "fonts/SpaceMono-Regular.ttf": "/Native-Simple-Notes/./fonts/SpaceMono-Regular.ttf",
+    "favicon-16.png": "/Native-Simple-Notes/favicon-16.png",
+    "favicon-32.png": "/Native-Simple-Notes/favicon-32.png",
+    "favicon.ico": "/Native-Simple-Notes/favicon.ico",
+    "index.html": "/Native-Simple-Notes/index.html",
+    "manifest.json": "/Native-Simple-Notes/manifest.json",
+    "serve.json": "/Native-Simple-Notes/serve.json"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.a5cd0704.js",
+    "static/js/2.ff2a15a8.chunk.js",
+    "static/js/app.86628808.chunk.js"
+  ]
+}
