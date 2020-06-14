@@ -3,7 +3,7 @@
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', function () {
     navigator.serviceWorker
-      .register('/Native-Simple-Notes/expo-service-worker.js', { scope: '/Native-Simple-Notes/' })
+      .register('/Simple-Notes-Native/expo-service-worker.js', { scope: '/Simple-Notes-Native/' })
       .then(function (info) {
         // console.info('Registered service-worker', info);
       })

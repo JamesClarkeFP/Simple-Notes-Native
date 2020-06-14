@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Native-Simple-Notes/precache-manifest.14082d346d26791d804e72ae9f4dc1d4.js"
+  "/Simple-Notes-Native/precache-manifest.a33a122646b3d95c366a60ebd94019b4.js"
 );
 
 workbox.skipWaiting();
@@ -29,7 +29,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Native-Simple-Notes/index.html", {
+workbox.routing.registerNavigationRoute("/Simple-Notes-Native/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
