@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/Native-Simple-Notes/static/js/app.86628808.chunk.js",
-    "app.js.map": "/Native-Simple-Notes/static/js/app.86628808.chunk.js.map",
+    "app.js": "/Native-Simple-Notes/static/js/app.49a33e29.chunk.js",
+    "app.js.map": "/Native-Simple-Notes/static/js/app.49a33e29.chunk.js.map",
     "runtime~app.js": "/Native-Simple-Notes/static/js/runtime~app.a5cd0704.js",
     "runtime~app.js.map": "/Native-Simple-Notes/static/js/runtime~app.a5cd0704.js.map",
     "static/js/2.ff2a15a8.chunk.js": "/Native-Simple-Notes/static/js/2.ff2a15a8.chunk.js",
@@ -28,6 +28,6 @@
   "entrypoints": [
     "static/js/runtime~app.a5cd0704.js",
     "static/js/2.ff2a15a8.chunk.js",
-    "static/js/app.86628808.chunk.js"
+    "static/js/app.49a33e29.chunk.js"
   ]
 }

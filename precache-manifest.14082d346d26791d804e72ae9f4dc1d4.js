@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "1681c380d534fbe3ec4b",
-    "url": "/Native-Simple-Notes/static/js/app.86628808.chunk.js"
+    "revision": "be40b1e790da9037947c",
+    "url": "/Native-Simple-Notes/static/js/app.49a33e29.chunk.js"
   },
   {
     "revision": "f86bba3a49d898ad7b76",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/Native-Simple-Notes/favicon.ico"
   },
   {
-    "revision": "ec981420c65b247bfe8979a3a5cedd2b",
+    "revision": "ba54d9f7ebacd227712445cc7ba68bee",
     "url": "/Native-Simple-Notes/index.html"
   },
   {
