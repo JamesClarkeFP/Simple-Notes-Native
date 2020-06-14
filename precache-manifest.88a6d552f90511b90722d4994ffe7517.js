@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/Simple-Notes-Native/./fonts/SimpleLineIcons.ttf"
   },
   {
-    "revision": "ec543248d7b23864564429fc03837190",
-    "url": "/Simple-Notes-Native/serve.json"
-  },
-  {
     "revision": "48c7ed4e7da9792af288a60d7242d615",
     "url": "/Simple-Notes-Native/expo-service-worker.js"
+  },
+  {
+    "revision": "ec543248d7b23864564429fc03837190",
+    "url": "/Simple-Notes-Native/serve.json"
   },
   {
     "revision": "71033553ddc0843407efe54c23890fe2",
